@@ -14,10 +14,10 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+// | Command | Description |
+// | --- | --- |
+// | git status | List all new or modified files |
+// | git diff | Show file differences that haven't been staged |
 
 
 #define NVIC_ST_CTRL_R      (*((volatile unsigned long *)0xE000E010)) // SysTick Control and Status Register
