@@ -1,5 +1,5 @@
 // Definition of memory addresses for SysTick timer registers
-// |:aaa:|
+> |:aaa:|
 // | Address  | :31-24: | :23-17:|:16:|
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
